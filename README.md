@@ -1,2 +1,2 @@
 # portfolio
-you can visit my website here : [https://github.com/shariefbe/portfolio.git]
+you can visit my website here : [https://shariefbe.github.io/portfolio/]
